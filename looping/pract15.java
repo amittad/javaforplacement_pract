@@ -22,4 +22,5 @@ public class pract15 {
 
         sc.close();
     }
+    a
 }
