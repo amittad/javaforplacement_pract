@@ -22,5 +22,5 @@ public class pract15 {
 
         sc.close();
     }
-  aaaaa
+  aaaa
 }
