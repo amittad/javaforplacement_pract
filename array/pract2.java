@@ -13,7 +13,7 @@ public class pract2 {
             arr[i]=inp;
 
         }
-        for (int j =arr.length; j >0; j--) {
+        for (int j =arr.length-1; j >0; j--) {
 
             System.out.println(arr[j]);
             
